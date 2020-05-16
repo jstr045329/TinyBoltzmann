@@ -1,4 +1,4 @@
-Tiny Restricted Boltzmann Machine, with Hinton style greedy pretraining. Written in Matlab. 
+Tiny Restricted Boltzmann Machine, with contrastive divergence training. Written in Matlab. 
 
 Run testTinyBoltzmann.m to see your RBM train on a tiny test set. 
 
